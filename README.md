@@ -52,6 +52,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amool-kk&theme=material-palenight" alt="Amool-kk" /></p>
 <br>
 
+<a href="https://gitroll.io/profile/ulGTigDXwEaP3TirZoMBuO3JFSEh1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulGTigDXwEaP3TirZoMBuO3JFSEh1" alt="GitRoll Profile Badge"/></a>
+
 <!-- <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amool-kk&show_icons=true&theme=material-palenight&line_height=27" alt="Amool's github stats"/>
 </p> -->
