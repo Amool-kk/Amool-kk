@@ -5,6 +5,6 @@ import tailwindcss from "@tailwindcss/vite";
 // GitHub Pages project-site path for:
 // https://Amool-kk.github.io/amool-portfolio/
 export default defineConfig({
-  base: "/",
+  base: "/Amool-kk/",
   plugins: [react(), tailwindcss()],
 });
